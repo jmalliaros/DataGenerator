@@ -1,1 +1,1 @@
-![](mockdataimg.png =100x)
+![](mockdata.png)
